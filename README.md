@@ -22,7 +22,7 @@ yfinanceはティッカーシンボルから各企業の株価や財務情報な
 ```
 git clone https://github.com/kytym/stockapp.git
 cd stockapp
-pip install -r requirements.text
+pip install -r requirements.txt
 ```
 
 ## 使い方
