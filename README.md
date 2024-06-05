@@ -11,8 +11,8 @@ streamlitはPythonのみで簡単にWebアプリを作成できるオープン�
 [streamlit公式ドキュメント](https://docs.streamlit.io/)
 
 ### yfinance
+yfinanceはティッカーシンボルから各企業の株価や財務情報などの株価データを収集することのできるライブラリです。
 
-### pandas
 
 ## インストール
 ```
