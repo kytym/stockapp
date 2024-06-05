@@ -7,7 +7,8 @@
 ## ライブラリ
 利用しているライブラリで重要なものをピックアップして説明します。
 ### streamlit
-streamlitはPythonのみで簡単にWebアプリを作成できるオープンソースのライブラリです。簡単なコードでUIを作成することができ、
+streamlitはPythonのみで簡単にWebアプリを作成できるオープンソースのライブラリです。簡単なコードでUIを作成することができ、データの可視化に向いています。
+[streamlit公式ドキュメント](https://docs.streamlit.io/)
 
 ### yfinance
 
