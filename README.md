@@ -8,6 +8,7 @@
 利用しているライブラリで重要なものをピックアップして説明します。
 ### streamlit
 streamlitはPythonのみで簡単にWebアプリを作成できるオープンソースのライブラリです。簡単なコードでUIを作成することができ、データの可視化に向いています。
+
 [streamlit公式ドキュメント](https://docs.streamlit.io/)
 
 ### yfinance
@@ -16,6 +17,8 @@ yfinanceはティッカーシンボルから各企業の株価や財務情報な
 
 ## インストール
 ```
+git clone https://github.com/kytym/stockapp.git
+
 pip install -r requirements.text
 ```
 
