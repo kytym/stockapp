@@ -4,6 +4,9 @@
 株価を表を用いて可視化するツールです。表示する日数、株価をサイドバーを利用して調整することができます。
 また表示する会社を選択し追加、削除することが可能です。
 
+## バージョン
+Python 3.12.3
+
 ## ライブラリ
 利用しているライブラリで重要なものをピックアップして説明します。
 ### streamlit
@@ -19,7 +22,7 @@ yfinanceはティッカーシンボルから各企業の株価や財務情報な
 ```
 git clone https://github.com/kytym/stockapp.git
 cd stockapp
-pip install -r requirements.text
+pip install -r requirements.txt
 ```
 
 ## 使い方
